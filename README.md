@@ -13,6 +13,7 @@
   event local file system.
 
 ## How To Contribute
+* Please fok this repository and then issue Pull Request for review.
 
 ### Copyright
 
