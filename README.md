@@ -17,4 +17,4 @@
 
 ### Copyright
 
-Copyright 2016. Abc
+Copyright 2016. Abc All right reserved.
